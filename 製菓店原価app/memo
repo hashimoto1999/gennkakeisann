@@ -1,0 +1,2 @@
+cd ".\製菓店原価app"
+python -m streamlit run app.py
