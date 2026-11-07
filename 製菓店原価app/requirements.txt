@@ -1,4 +1,0 @@
-streamlit>=1.57,<2
-pandas>=2.0,<4
-pykakasi>=2.3,<3
-platformdirs>=4,<5
